@@ -1,0 +1,167 @@
+﻿  binarysearchtree.c
+C:\Users\user\Desktop\코드정리\searchandpolynimials\searchandpolynimials\binarysearchtree.c(29,7): warning C4013: 'exit'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+C:\Users\user\Desktop\코드정리\searchandpolynimials\searchandpolynimials\binarysearchtree.c(49,13): warning C4013: 'search'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+C:\Users\user\Desktop\코드정리\searchandpolynimials\searchandpolynimials\binarysearchtree.c(62,23): warning C4013: 'malloc'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+C:\Users\user\Desktop\코드정리\searchandpolynimials\searchandpolynimials\binarysearchtree.c(86,1): error C2513: ' ': '=' 앞에 변수를 선언하지 않았습니다.
+C:\Users\user\Desktop\코드정리\searchandpolynimials\searchandpolynimials\binarysearchtree.c(87,1): fatal error C1004: 예기치 않은 파일의 끝이 나타났습니다.
+  binarysearchtree2.c
+C:\Users\user\Desktop\코드정리\searchandpolynimials\searchandpolynimials\binarysearchtree2.c(34,7): warning C4013: 'exit'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+C:\Users\user\Desktop\코드정리\searchandpolynimials\searchandpolynimials\binarysearchtree2.c(27,33): warning C4101: 'key' :참조되지 않은 지역 변수입니다.
+C:\Users\user\Desktop\코드정리\searchandpolynimials\searchandpolynimials\binarysearchtree2.c(74,23): warning C4013: 'malloc'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+C:\Users\user\Desktop\코드정리\searchandpolynimials\searchandpolynimials\binarysearchtree2.c(114,10): warning C4013: 'free'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+C:\Users\user\Desktop\코드정리\searchandpolynimials\searchandpolynimials\binarysearchtree2.c(176,16): warning C4047: 'return': 'int'의 간접 참조 수준이 'void *'과(와) 다릅니다.
+C:\Users\user\Desktop\코드정리\searchandpolynimials\searchandpolynimials\binarysearchtree2.c(182,16): warning C4047: 'return': 'int'의 간접 참조 수준이 'void *'과(와) 다릅니다.
+C:\Users\user\Desktop\코드정리\searchandpolynimials\searchandpolynimials\binarysearchtree2.c(186,13): warning C4047: 'return': 'int'의 간접 참조 수준이 'void *'과(와) 다릅니다.
+  binarytree_array.c
+C:\Users\user\Desktop\코드정리\searchandpolynimials\searchandpolynimials\binarytree_array.c(23,21): warning C4013: 'malloc'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+C:\Users\user\Desktop\코드정리\searchandpolynimials\searchandpolynimials\binarytree_array.c(48,36): warning C4028: 정식 매개 변수 3이(가) 선언과 다릅니다.
+C:\Users\user\Desktop\코드정리\searchandpolynimials\searchandpolynimials\binarytree_array.c(49,1): warning C4029: 선언된 정식 매개 변수 목록이 정의와 다릅니다.
+C:\Users\user\Desktop\코드정리\searchandpolynimials\searchandpolynimials\binarytree_array.c(64,37): warning C4028: 정식 매개 변수 3이(가) 선언과 다릅니다.
+C:\Users\user\Desktop\코드정리\searchandpolynimials\searchandpolynimials\binarytree_array.c(65,1): warning C4029: 선언된 정식 매개 변수 목록이 정의와 다릅니다.
+C:\Users\user\Desktop\코드정리\searchandpolynimials\searchandpolynimials\binarytree_array.c(77,38): warning C4028: 정식 매개 변수 3이(가) 선언과 다릅니다.
+C:\Users\user\Desktop\코드정리\searchandpolynimials\searchandpolynimials\binarytree_array.c(78,1): warning C4029: 선언된 정식 매개 변수 목록이 정의와 다릅니다.
+C:\Users\user\Desktop\코드정리\searchandpolynimials\searchandpolynimials\binarytree_array.c(94,6): warning C4101: 'k' :참조되지 않은 지역 변수입니다.
+C:\Users\user\Desktop\코드정리\searchandpolynimials\searchandpolynimials\binarytree_array.c(93,16): warning C4101: 'data' :참조되지 않은 지역 변수입니다.
+C:\Users\user\Desktop\코드정리\searchandpolynimials\searchandpolynimials\binarytree_array.c(125,7): warning C4013: 'exit'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+C:\Users\user\Desktop\코드정리\searchandpolynimials\searchandpolynimials\binarytree_array.c(123,6): warning C4101: 'i' :참조되지 않은 지역 변수입니다.
+  binarytree_linkedlist2.c
+C:\Users\user\Desktop\코드정리\searchandpolynimials\searchandpolynimials\binarytree_linkedlist2.c(46,7): warning C4013: 'exit'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+C:\Users\user\Desktop\코드정리\searchandpolynimials\searchandpolynimials\binarytree_linkedlist2.c(53,28): warning C4013: 'malloc'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+C:\Users\user\Desktop\코드정리\searchandpolynimials\searchandpolynimials\binarytree_linkedlist2.c(65,13): warning C4013: 'strcmp'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+C:\Users\user\Desktop\코드정리\searchandpolynimials\searchandpolynimials\binarytree_linkedlist2.c(126,18): warning C4013: 'combination'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+C:\Users\user\Desktop\코드정리\searchandpolynimials\searchandpolynimials\binarytree_linkedlist2.c(126,21): error C2440: '=': 'int'에서 'combi'(으)로 변환할 수 없습니다.
+C:\Users\user\Desktop\코드정리\searchandpolynimials\searchandpolynimials\binarytree_linkedlist2.c(142,7): error C2371: 'combination': 재정의. 기본 형식이 다릅니다.
+C:\Users\user\Desktop\코드정리\searchandpolynimials\searchandpolynimials\binarytree_linkedlist2.c(155,7): error C2065: 'a': 선언되지 않은 식별자입니다.
+C:\Users\user\Desktop\코드정리\searchandpolynimials\searchandpolynimials\binarytree_linkedlist2.c(155,8): error C2224: '.x' 왼쪽에는 구조체/공용 구조체 형식이 있어야 합니다.
+C:\Users\user\Desktop\코드정리\searchandpolynimials\searchandpolynimials\binarytree_linkedlist2.c(156,7): error C2065: 'a': 선언되지 않은 식별자입니다.
+C:\Users\user\Desktop\코드정리\searchandpolynimials\searchandpolynimials\binarytree_linkedlist2.c(156,8): error C2224: '.y' 왼쪽에는 구조체/공용 구조체 형식이 있어야 합니다.
+C:\Users\user\Desktop\코드정리\searchandpolynimials\searchandpolynimials\binarytree_linkedlist2.c(157,7): error C2065: 'a': 선언되지 않은 식별자입니다.
+C:\Users\user\Desktop\코드정리\searchandpolynimials\searchandpolynimials\binarytree_linkedlist2.c(157,8): error C2224: '.z' 왼쪽에는 구조체/공용 구조체 형식이 있어야 합니다.
+C:\Users\user\Desktop\코드정리\searchandpolynimials\searchandpolynimials\binarytree_linkedlist2.c(158,14): error C2065: 'a': 선언되지 않은 식별자입니다.
+C:\Users\user\Desktop\코드정리\searchandpolynimials\searchandpolynimials\binarytree_linkedlist2.c(158,14): error C2440: 'return': 'int'에서 'combi'(으)로 변환할 수 없습니다.
+  binarytree_linkedlists.c
+C:\Users\user\Desktop\코드정리\searchandpolynimials\searchandpolynimials\binarytree_linkedlists.c(11,2): warning C4091: 'typedef ': 변수를 선언하지 않으면 'node' 왼쪽은 무시됩니다.
+C:\Users\user\Desktop\코드정리\searchandpolynimials\searchandpolynimials\binarytree_linkedlists.c(44,7): warning C4013: 'exit'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+C:\Users\user\Desktop\코드정리\searchandpolynimials\searchandpolynimials\binarytree_linkedlists.c(54,23): warning C4013: 'malloc'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+  circularQueues.c
+C:\Users\user\Desktop\코드정리\searchandpolynimials\searchandpolynimials\circularQueues.c(14,12): warning C4013: 'queueFULL'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+C:\Users\user\Desktop\코드정리\searchandpolynimials\searchandpolynimials\circularQueues.c(21,7): warning C4013: 'exit'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+  Countingbinarytree.c
+C:\Users\user\Desktop\코드정리\searchandpolynimials\searchandpolynimials\Countingbinarytree.c(47,18): warning C4013: 'strlen'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+  dynamicarrays.c
+  evaluation_of_expressions.c
+C:\Users\user\Desktop\코드정리\searchandpolynimials\searchandpolynimials\evaluation_of_expressions.c(39,7): warning C4013: 'exit'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+C:\Users\user\Desktop\코드정리\searchandpolynimials\searchandpolynimials\evaluation_of_expressions.c(31,9): warning C4101: 'j' :참조되지 않은 지역 변수입니다.
+C:\Users\user\Desktop\코드정리\searchandpolynimials\searchandpolynimials\evaluation_of_expressions.c(31,6): warning C4101: 'i' :참조되지 않은 지역 변수입니다.
+  Forest.c
+C:\Users\user\Desktop\코드정리\searchandpolynimials\searchandpolynimials\Forest.c(32): fatal error C1075: '{': 일치하는 토큰을 찾을 수 없습니다.
+  Graph_by_adjlist.c
+C:\Users\user\Desktop\코드정리\searchandpolynimials\searchandpolynimials\Graph_by_adjlist.c(54,29): warning C4013: 'calloc'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+C:\Users\user\Desktop\코드정리\searchandpolynimials\searchandpolynimials\Graph_by_adjlist.c(56,34): warning C4013: 'malloc'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+C:\Users\user\Desktop\코드정리\searchandpolynimials\searchandpolynimials\Graph_by_adjlist.c(63,11): error C2065: 'f': 선언되지 않은 식별자입니다.
+C:\Users\user\Desktop\코드정리\searchandpolynimials\searchandpolynimials\Graph_by_adjlist.c(63,11): warning C4047: '함수': 'FILE *const '의 간접 참조 수준이 'int'과(와) 다릅니다.
+C:\Users\user\Desktop\코드정리\searchandpolynimials\searchandpolynimials\Graph_by_adjlist.c(63,11): warning C4024: 'fscanf': 형식 및 실제 매개 변수 1의 형식이 서로 다릅니다.
+C:\Users\user\Desktop\코드정리\searchandpolynimials\searchandpolynimials\Graph_by_adjlist.c(148,14): warning C4047: 'return': 'int'의 간접 참조 수준이 'void *'과(와) 다릅니다.
+C:\Users\user\Desktop\코드정리\searchandpolynimials\searchandpolynimials\Graph_by_adjlist.c(151,6): warning C4013: 'free'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+  Graph_by_adjmatrix.c
+C:\Users\user\Desktop\코드정리\searchandpolynimials\searchandpolynimials\Graph_by_adjmatrix.c(29,27): warning C4013: 'calloc'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+C:\Users\user\Desktop\코드정리\searchandpolynimials\searchandpolynimials\Graph_by_adjmatrix.c(30,34): warning C4013: 'malloc'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+C:\Users\user\Desktop\코드정리\searchandpolynimials\searchandpolynimials\Graph_by_adjmatrix.c(41,11): error C2065: 'f': 선언되지 않은 식별자입니다.
+C:\Users\user\Desktop\코드정리\searchandpolynimials\searchandpolynimials\Graph_by_adjmatrix.c(41,11): warning C4047: '함수': 'FILE *const '의 간접 참조 수준이 'int'과(와) 다릅니다.
+C:\Users\user\Desktop\코드정리\searchandpolynimials\searchandpolynimials\Graph_by_adjmatrix.c(41,11): warning C4024: 'fscanf': 형식 및 실제 매개 변수 1의 형식이 서로 다릅니다.
+  heap.c
+C:\Users\user\Desktop\코드정리\searchandpolynimials\searchandpolynimials\heap.c(32,7): warning C4013: 'exit'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+C:\Users\user\Desktop\코드정리\searchandpolynimials\searchandpolynimials\heap.c(26,10): warning C4101: 'temp' :참조되지 않은 지역 변수입니다.
+C:\Users\user\Desktop\코드정리\searchandpolynimials\searchandpolynimials\heap.c(25,9): warning C4101: 'n' :참조되지 않은 지역 변수입니다.
+C:\Users\user\Desktop\코드정리\searchandpolynimials\searchandpolynimials\heap.c(60,9): warning C4101: 'j' :참조되지 않은 지역 변수입니다.
+  howtosearch.c
+C:\Users\user\Desktop\코드정리\searchandpolynimials\searchandpolynimials\howtosearch.c(15,8): warning C4013: 'printf'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+  arraylinkedlist.c
+  linkdelist_stack.c
+C:\Users\user\Desktop\코드정리\searchandpolynimials\searchandpolynimials\linkdelist_stack.c(16,29): warning C4013: 'malloc'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+C:\Users\user\Desktop\코드정리\searchandpolynimials\searchandpolynimials\linkdelist_stack.c(31,6): warning C4013: 'free'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+  linkedlist.c
+C:\Users\user\Desktop\코드정리\searchandpolynimials\searchandpolynimials\linkedlist.c(9,39): error C2143: 구문 오류: ')'이(가) '*' 앞에 없습니다.
+C:\Users\user\Desktop\코드정리\searchandpolynimials\searchandpolynimials\linkedlist.c(9,39): error C2081: 'FILE': 정식 매개 변수 목록에 있는 이름이 잘못되었습니다.
+C:\Users\user\Desktop\코드정리\searchandpolynimials\searchandpolynimials\linkedlist.c(9,39): error C2143: 구문 오류: '{'이(가) '*' 앞에 없습니다.
+C:\Users\user\Desktop\코드정리\searchandpolynimials\searchandpolynimials\linkedlist.c(9,42): error C2059: 구문 오류: ')'
+C:\Users\user\Desktop\코드정리\searchandpolynimials\searchandpolynimials\linkedlist.c(18,29): warning C4013: 'malloc'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+C:\Users\user\Desktop\코드정리\searchandpolynimials\searchandpolynimials\linkedlist.c(28,20): error C2065: 'NULL': 선언되지 않은 식별자입니다.
+C:\Users\user\Desktop\코드정리\searchandpolynimials\searchandpolynimials\linkedlist.c(28,20): warning C4047: '=': 'linkedlist *'의 간접 참조 수준이 'int'과(와) 다릅니다.
+C:\Users\user\Desktop\코드정리\searchandpolynimials\searchandpolynimials\linkedlist.c(38,20): error C2065: 'NULL': 선언되지 않은 식별자입니다.
+C:\Users\user\Desktop\코드정리\searchandpolynimials\searchandpolynimials\linkedlist.c(38,20): warning C4047: '=': 'linkedlist *'의 간접 참조 수준이 'int'과(와) 다릅니다.
+C:\Users\user\Desktop\코드정리\searchandpolynimials\searchandpolynimials\linkedlist.c(50,39): error C2143: 구문 오류: ')'이(가) '*' 앞에 없습니다.
+C:\Users\user\Desktop\코드정리\searchandpolynimials\searchandpolynimials\linkedlist.c(50,39): error C2081: 'FILE': 정식 매개 변수 목록에 있는 이름이 잘못되었습니다.
+C:\Users\user\Desktop\코드정리\searchandpolynimials\searchandpolynimials\linkedlist.c(50,39): error C2143: 구문 오류: '{'이(가) '*' 앞에 없습니다.
+C:\Users\user\Desktop\코드정리\searchandpolynimials\searchandpolynimials\linkedlist.c(50,42): error C2059: 구문 오류: ')'
+C:\Users\user\Desktop\코드정리\searchandpolynimials\searchandpolynimials\linkedlist.c(51,1): error C2054: 'fp' 다음에 '('가 필요합니다.
+C:\Users\user\Desktop\코드정리\searchandpolynimials\searchandpolynimials\linkedlist.c(68,6): warning C4013: 'free'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+  linkedlist_operations.c
+C:\Users\user\Desktop\코드정리\searchandpolynimials\searchandpolynimials\linkedlist_operations.c(22,13): error C2065: 'NULL': 선언되지 않은 식별자입니다.
+C:\Users\user\Desktop\코드정리\searchandpolynimials\searchandpolynimials\linkedlist_operations.c(22,13): warning C4047: '=': 'pointer'의 간접 참조 수준이 'int'과(와) 다릅니다.
+C:\Users\user\Desktop\코드정리\searchandpolynimials\searchandpolynimials\linkedlist_operations.c(22,13): error C2143: 구문 오류: ';'이(가) ':' 앞에 없습니다.
+C:\Users\user\Desktop\코드정리\searchandpolynimials\searchandpolynimials\linkedlist_operations.c(30,2): error C2059: 구문 오류: 'return'
+C:\Users\user\Desktop\코드정리\searchandpolynimials\searchandpolynimials\linkedlist_operations.c(32,1): error C2059: 구문 오류: '}'
+C:\Users\user\Desktop\코드정리\searchandpolynimials\searchandpolynimials\linkedlist_operations.c(51,28): warning C4013: 'malloc'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+C:\Users\user\Desktop\코드정리\searchandpolynimials\searchandpolynimials\linkedlist_operations.c(73): fatal error C1075: '{': 일치하는 토큰을 찾을 수 없습니다.
+  linkedlist_Queues.c
+C:\Users\user\Desktop\코드정리\searchandpolynimials\searchandpolynimials\linkedlist_Queues.c(16,29): warning C4013: 'malloc'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+C:\Users\user\Desktop\코드정리\searchandpolynimials\searchandpolynimials\linkedlist_Queues.c(18,19): error C2065: 'NULL': 선언되지 않은 식별자입니다.
+C:\Users\user\Desktop\코드정리\searchandpolynimials\searchandpolynimials\linkedlist_Queues.c(18,19): warning C4047: '=': 'queuepointer'의 간접 참조 수준이 'int'과(와) 다릅니다.
+C:\Users\user\Desktop\코드정리\searchandpolynimials\searchandpolynimials\linkedlist_Queues.c(33,6): warning C4013: 'free'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+  linkedpolynomials.c
+C:\Users\user\Desktop\코드정리\searchandpolynimials\searchandpolynimials\linkedpolynomials.c(106,26): warning C4244: '함수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\user\Desktop\코드정리\searchandpolynimials\searchandpolynimials\linkedpolynomials.c(111,15): warning C4244: '함수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\user\Desktop\코드정리\searchandpolynimials\searchandpolynimials\linkedpolynomials.c(114,25): warning C4244: '함수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\user\Desktop\코드정리\searchandpolynimials\searchandpolynimials\linkedpolynomials.c(119,17): warning C4244: '함수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\user\Desktop\코드정리\searchandpolynimials\searchandpolynimials\linkedpolynomials.c(121,17): warning C4244: '함수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\user\Desktop\코드정리\searchandpolynimials\searchandpolynimials\linkedpolynomials.c(134,20): warning C4244: '=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  코드를 생성하고 있습니다...
+C:\Users\user\Desktop\코드정리\searchandpolynimials\searchandpolynimials\howtosearch.c(5): error C4700: 초기화되지 않은 'i' 지역 변수를 사용했습니다.
+C:\Users\user\Desktop\코드정리\searchandpolynimials\searchandpolynimials\Countingbinarytree.c(83): warning C4715: 'search': 모든 제어 경로에서 값을 반환하지는 않습니다.
+  컴파일하고 있습니다...
+  mazing.c
+C:\Users\user\Desktop\코드정리\searchandpolynimials\searchandpolynimials\mazing.c(43,7): warning C4013: 'exit'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+C:\Users\user\Desktop\코드정리\searchandpolynimials\searchandpolynimials\mazing.c(49,22): warning C4013: 'malloc'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+C:\Users\user\Desktop\코드정리\searchandpolynimials\searchandpolynimials\mazing.c(54,25): warning C4013: 'calloc'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+  polynomial.c
+C:\Users\user\Desktop\코드정리\searchandpolynimials\searchandpolynimials\polynomial.c(6,1): warning C4005: 'max': 매크로 재정의
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdlib.h(1289): message : 'max'의 이전 정의를 참조하십시오.
+  Queues.c
+C:\Users\user\Desktop\코드정리\searchandpolynimials\searchandpolynimials\Queues.c(35,9): warning C4013: 'printf'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+C:\Users\user\Desktop\코드정리\searchandpolynimials\searchandpolynimials\Queues.c(36,7): warning C4013: 'exit'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+C:\Users\user\Desktop\코드정리\searchandpolynimials\searchandpolynimials\Queues.c(54,2): error C2371: 'element': 재정의. 기본 형식이 다릅니다.
+C:\Users\user\Desktop\코드정리\searchandpolynimials\searchandpolynimials\Queues.c(20): message : 'element' 선언을 참조하십시오.
+C:\Users\user\Desktop\코드정리\searchandpolynimials\searchandpolynimials\Queues.c(58,20): warning C4028: 정식 매개 변수 1이(가) 선언과 다릅니다.
+C:\Users\user\Desktop\코드정리\searchandpolynimials\searchandpolynimials\Queues.c(63,1): error C2084: 'int main()' 함수에 이미 본문이 있습니다.
+C:\Users\user\Desktop\코드정리\searchandpolynimials\searchandpolynimials\Queues.c(24): message : 'main'의 이전 정의를 참조하십시오.
+C:\Users\user\Desktop\코드정리\searchandpolynimials\searchandpolynimials\Queues.c(64,27): warning C4013: 'malloc'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+C:\Users\user\Desktop\코드정리\searchandpolynimials\searchandpolynimials\Queues.c(74,1): error C2084: 'void addq(int)' 함수에 이미 본문이 있습니다.
+C:\Users\user\Desktop\코드정리\searchandpolynimials\searchandpolynimials\Queues.c(31): message : 'addq'의 이전 정의를 참조하십시오.
+C:\Users\user\Desktop\코드정리\searchandpolynimials\searchandpolynimials\Queues.c(77,29): warning C4013: 'realloc'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+C:\Users\user\Desktop\코드정리\searchandpolynimials\searchandpolynimials\Queues.c(87,1): error C2084: 'element deleteq()' 함수에 이미 본문이 있습니다.
+C:\Users\user\Desktop\코드정리\searchandpolynimials\searchandpolynimials\Queues.c(40): message : 'deleteq'의 이전 정의를 참조하십시오.
+  Selctiontree.c
+C:\Users\user\Desktop\코드정리\searchandpolynimials\searchandpolynimials\Selctiontree.c(24,7): warning C4013: 'exit'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+C:\Users\user\Desktop\코드정리\searchandpolynimials\searchandpolynimials\Selctiontree.c(29,23): warning C4013: 'malloc'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+C:\Users\user\Desktop\코드정리\searchandpolynimials\searchandpolynimials\Selctiontree.c(31,40): warning C4047: '=': 'int *'의 간접 참조 수준이 'int'과(와) 다릅니다.
+C:\Users\user\Desktop\코드정리\searchandpolynimials\searchandpolynimials\Selctiontree.c(38,25): warning C4013: 'calloc'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+C:\Users\user\Desktop\코드정리\searchandpolynimials\searchandpolynimials\Selctiontree.c(15,27): warning C4101: 'data' :참조되지 않은 지역 변수입니다.
+  Sorting.c
+  sparsematrix.c
+C:\Users\user\Desktop\코드정리\searchandpolynimials\searchandpolynimials\sparsematrix.c(43,28): warning C4013: 'calloc'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+C:\Users\user\Desktop\코드정리\searchandpolynimials\searchandpolynimials\sparsematrix.c(65,6): warning C4013: 'free'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+C:\Users\user\Desktop\코드정리\searchandpolynimials\searchandpolynimials\sparsematrix.c(38,12): warning C4101: 'k' :참조되지 않은 지역 변수입니다.
+  Stack.c
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.25.28610\include\cstdio(33,1): error C2061: 구문 오류: 식별자 'std'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.25.28610\include\cstdio(33,1): error C2059: 구문 오류: ';'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.25.28610\include\cstdio(33,1): error C2449: 파일 범위에 '{'가 있습니다. 함수 헤더가 없는 것 같습니다.
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.25.28610\include\cstdio(91,1): error C2059: 구문 오류: '}'
+C:\Users\user\Desktop\코드정리\searchandpolynimials\searchandpolynimials\Stack.c(106,1): fatal error C1004: 예기치 않은 파일의 끝이 나타났습니다.
+  threadedbinarytree_linkedlist.c
+C:\Users\user\Desktop\코드정리\searchandpolynimials\searchandpolynimials\threadedbinarytree_linkedlist.c(16,2): warning C4091: 'typedef ': 변수를 선언하지 않으면 'node' 왼쪽은 무시됩니다.
+C:\Users\user\Desktop\코드정리\searchandpolynimials\searchandpolynimials\threadedbinarytree_linkedlist.c(42,7): warning C4013: 'exit'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+C:\Users\user\Desktop\코드정리\searchandpolynimials\searchandpolynimials\threadedbinarytree_linkedlist.c(51,23): warning C4013: 'malloc'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+  use_link_for_equivalencdpair.c
+C:\Users\user\Desktop\코드정리\searchandpolynimials\searchandpolynimials\use_link_for_equivalencdpair.c(106,1): error C2059: 구문 오류: '상수'
+  코드를 생성하고 있습니다...
